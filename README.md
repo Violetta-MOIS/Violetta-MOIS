@@ -6,8 +6,8 @@
 
 ## Pet-project
 
-- [Тестирование](https://www.github.com/octokatherine)
-- [Java](https://www.github.com/octokatherine)
+- [Testing](https://github.com/Violetta-MOIS/Testing)
+- [Java](https://github.com/Violetta-MOIS/Java)
 
 ## Languages and tools.
 
