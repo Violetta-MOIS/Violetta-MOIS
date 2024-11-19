@@ -2,7 +2,7 @@
 
 Приветик! Я студентка направления «Информационные системы и технологии. Fullstack разработка» в РТУ МИРЭА, углубленно изучающая Java и QA. Стремлюсь к постоянному развитию и практическому применению полученных знаний в реализации собственных проектов. Спасибо, что заглянули в мой профиль!
 
-## Резюме --> https://drive.google.com/file/d/1iTLwNS0O-VjK4VeJBEBl5DZbmWtk8duL/view?usp=sharing
+Резюме --> https://drive.google.com/file/d/1iTLwNS0O-VjK4VeJBEBl5DZbmWtk8duL/view?usp=sharing
 
 ## Languages and tools.
 
