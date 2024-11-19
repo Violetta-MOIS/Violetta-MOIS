@@ -2,6 +2,15 @@
 
 Приветик! Я студентка направления «Информационные системы и технологии. Fullstack разработка» в РТУ МИРЭА, углубленно изучающая Java и QA. Стремлюсь к постоянному развитию и практическому применению полученных знаний в реализации собственных проектов. Спасибо, что заглянули в мой профиль!
 
+<div id="socials" align="center">
+    <a href="https://t.me/vailettaaa">
+        <img src="https://www.svgrepo.com/svg/452115/telegram" alt="telegram">
+    </a>
+    <a href="">
+        <img src="https://mail.google.com/mail/u/1/#inbox" alt="gmail">
+    </a>
+</div>
+
 ## Java - Базовый уровень
 
 - Javа core;
