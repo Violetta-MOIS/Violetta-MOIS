@@ -2,8 +2,6 @@
 
 Приветик! Я студентка направления «Информационные системы и технологии. Fullstack разработка» в РТУ МИРЭА, углубленно изучающая Java и QA. Стремлюсь к постоянному развитию и практическому применению полученных знаний в реализации собственных проектов. Спасибо, что заглянули в мой профиль!
 
-## Стек
-
 ## Java - Базовый уровень
 
 - Javа core;
@@ -28,6 +26,8 @@
 - Linux, оконченные вузовские курсы по изучению и работе в среде AstraLinux;
 - Знакома с Web-технологиями на базовом уровне (HTML, CSS, HTTP, JSON);
 - Git - коммиты, ветки, мерджи
+
+## Languages and tools.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" widht="60" height="60"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg" title="JUnit" widht="60" height="60"/>&nbsp;
