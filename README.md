@@ -7,7 +7,7 @@
         <img src="https://www.svgrepo.com/svg/452115/telegram" alt="telegram">
     </a>
     <a href="">
-        <img src="https://mail.google.com/mail/u/1/#inbox" alt="gmail">
+        <img src="moiseenkova.violetta.v@gmail.com" alt="gmail">
     </a>
 </div>
 
