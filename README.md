@@ -4,6 +4,11 @@
 
 Резюме --> https://drive.google.com/file/d/1iTLwNS0O-VjK4VeJBEBl5DZbmWtk8duL/view?usp=sharing
 
+## Pet-project
+
+- [Тестирование](https://www.github.com/octokatherine)
+- [Java](https://www.github.com/octokatherine)
+
 ## Languages and tools.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" widht="60" height="60"/>&nbsp;
