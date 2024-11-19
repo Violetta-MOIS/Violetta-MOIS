@@ -7,8 +7,8 @@
 <body>
 
 <div class="header">
-    <h1>Моисеенкова Виолетта</h1>
-    <p>hi</p>
+    <h1>Моисеенкова Виолетта - @vailettaaa</h1>
+    <p></p>
 </div>
 
 </body>
