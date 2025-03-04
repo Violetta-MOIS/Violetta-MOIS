@@ -4,9 +4,6 @@
 
 ## Pet-project
 
-- [Testing](https://github.com/Violetta-MOIS/Testing)
-- [Java](https://github.com/Violetta-MOIS/Java)
-
 ## Languages and tools.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" widht="60" height="60"/>&nbsp;
