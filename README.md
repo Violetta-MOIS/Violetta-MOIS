@@ -1,6 +1,6 @@
 ## Моисеенкова Виолетта - @vailettaaa
 
-Резюме --> https://drive.google.com/file/d/1iTLwNS0O-VjK4VeJBEBl5DZbmWtk8duL/view?usp=sharing
+Резюме --> https://drive.google.com/file/d/1iTLwNS0O-VjK4VeJBEBl5DZbmWtk8duL/view?usp=sharing (позже обновить)
 
 ## Pet-project
 
